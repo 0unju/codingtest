@@ -1,3 +1,10 @@
+'''
+[week1] 12/19(MON)
+Concatenation of Array - LeetCode(https://leetcode.com/problems/concatenation-of-array/)
+(input)     [1, 2, 3]
+(output)    [1, 2, 3, 1, 2, 3]
+'''
+
 # Code Submitted
 class Solution(object):
     def getConcatenation(self, nums):
