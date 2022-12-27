@@ -7,8 +7,8 @@
   - 12/23(FRI) : leetcode, 859. Buddy Strings
 
 ### [week2]
-  - 12/26(MON) : 
-  - 12/27(TUE) : 
+  - 12/26(MON) : leetcode, 70. Climbing Stairs
+  - **12/27(TUE) : programmers, 나머지가 1이 되는 수**
   - 12/28(WEN) : 
   - 12/29(THU) : 
   - 12/30(FRI) : 
