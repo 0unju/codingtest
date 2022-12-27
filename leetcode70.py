@@ -34,3 +34,5 @@ class Solution(object):
             ways.append(ways[i-1]+ways[i-2])
          
         return ways[n-1]
+
+# https://novlog.tistory.com/267
