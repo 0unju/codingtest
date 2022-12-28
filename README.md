@@ -9,6 +9,6 @@
 ### [week2]
   - 12/26(MON) : leetcode, 70. Climbing Stairs
   - **12/27(TUE) : programmers, 나머지가 1이 되는 수**
-  - 12/28(WEN) : 
+  - **12/28(WEN) : leetcode, 2465. Number of Distinct Averages**
   - 12/29(THU) : 
   - 12/30(FRI) : 
