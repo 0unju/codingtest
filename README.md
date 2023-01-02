@@ -12,3 +12,10 @@
   - **12/28(WEN) : leetcode, 2465. Number of Distinct Averages**
   - 12/29(THU) : 
   - 12/30(FRI) : 
+
+### [week3]
+  - 01/02(MON) : leetcode, 2160. Minimum Sum of Four Digit Number After Splitting Digits
+  - 01/03(TUE) : programmers, 
+  - 01/04(WEN) : 
+  - 01/05(THU) : 
+  - 01/06(FRI) : 
