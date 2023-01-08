@@ -14,8 +14,16 @@
   - 12/30(FRI) : 
 
 ### [week3]
-  - 01/02(MON) : leetcode, 2160. Minimum Sum of Four Digit Number After Splitting Digits
-  - 01/03(TUE) : programmers, 
+  - 01/02(MON) :
+  - 01/03(TUE) : 
   - 01/04(WEN) : 
   - 01/05(THU) : 
-  - 01/06(FRI) : 
+  - **01/06(FRI) : leetcode, 94. Binary Tree Inorder Traversal**
+
+
+### [week4]
+  - 01/09(MON) :
+  - 01/10(TUE) : 
+  - 01/11(WEN) : 
+  - 01/12(THU) : 
+  - 01/13(FRI) : 
