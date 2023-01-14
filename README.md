@@ -25,5 +25,5 @@
   - **01/09(MON) : leetcode, 2255. Count Prefixes of a Given String**
   - 01/10(TUE) : 
   - **01/11(WEN) : leetcode, 1. Two Sum**
-  - **01/12(THU) : 백준, 2490 **
+  - **01/12(THU) : 백준, 2490 윷놀이**
   - 01/13(FRI) : 
