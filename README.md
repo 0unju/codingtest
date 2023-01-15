@@ -26,4 +26,11 @@
   - 01/10(TUE) : 
   - **01/11(WEN) : leetcode, 1. Two Sum**
   - **01/12(THU) : 백준, 2490 윷놀이**
-  - 01/13(FRI) : 
+  - **01/13(FRI) : leetcode, 832. Flipping an Image**
+
+### [week5]
+  - 01/16(MON) :
+  - 01/17(TUE) : 
+  - 01/18(WEN) : 
+  - 01/19(THU) : 
+  - 01/20(FRI) :
