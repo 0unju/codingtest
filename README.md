@@ -29,7 +29,7 @@
   - **01/13(FRI) : leetcode, 832. Flipping an Image**
 
 ### [week5]
-  - 01/16(MON) :
+  - **01/16(MON) : leetcode, 830. Positions of Large Groups**
   - **01/17(TUE) : programmers, 자연수 뒤집어 배열로 만들기**
   - 01/18(WEN) : 
   - 01/19(THU) : 
