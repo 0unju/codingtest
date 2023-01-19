@@ -31,6 +31,6 @@
 ### [week5]
   - **01/16(MON) : leetcode, 830. Positions of Large Groups**
   - **01/17(TUE) : programmers, 자연수 뒤집어 배열로 만들기**
-  - 01/18(WEN) : leetcode, 1470. Shuffle the Array 
+  - **01/18(WEN) : leetcode, 1470. Shuffle the Array** 
   - 01/19(THU) : 백준, 1949. 우수 마을
-  - 01/20(FRI) : leetcode,914. X of a Kind in a Deck of Cards
+  - **01/20(FRI) : leetcode,914. X of a Kind in a Deck of Cards**
